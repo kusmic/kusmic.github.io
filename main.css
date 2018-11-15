@@ -43,8 +43,8 @@ a {
     float: left;
     position: sticky;
     margin: 0;
-    padding-left: 6.7%;
-    padding-right: 6.7%;
+    padding-left: 3%;
+    padding-right: 3%;
     border-left: 1px solid black;
     border-right: 1px solid black;
 }
