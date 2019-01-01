@@ -25,7 +25,7 @@ a {
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 99%; /* Full width */
-    height: 8%;
+    height: 50px;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
     border-right: 1px solid black;
