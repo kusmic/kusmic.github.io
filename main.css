@@ -11,7 +11,7 @@ a {
     min-height: 0;
     max-width: 100%;
     max-height: 100%;
-    grid-template-columns: 70% 30%;
+    grid-template-columns: 80% 20%;
     grid-template-rows: 100%;
     margin: 0;
 }
@@ -86,19 +86,22 @@ li a.list {
     background-color: #333;
     border-radius: 20px;
     color: white;
-    grid-area: 1/1/1/span 1;
+    grid-area: 1/span 1/1/span 1;
     margin-bottom: 3%;
     margin-top: 2%;
-    padding-right: 0px;
+    padding: 2%;
     border: 0px;
 }
 
 .crop img {
     width: 50%;
+    margin: 0px;
+    padding: 0px;
 }
 
 .aboutme {
     place-self: center;
+    float: left;
     text-align: center;
     padding: 10%;
     grid-area: 1/2/1/span 1;
@@ -154,6 +157,7 @@ ul#exper {
 img.icon {
     margin-left: 15%;
     width: 80px;
+    padding: 0px;
 
 }
 
