@@ -105,7 +105,7 @@ li a.list {
 }
 
 .crop img {
-    width: 50%;
+    width: 30%;
     margin: 0px;
     padding: 0px;
 }
@@ -167,7 +167,7 @@ ul#exper {
 
 img.icon {
     margin-left: 15%;
-    width: 80px;
+    width: 160px;
     padding: 0px;
 
 }
