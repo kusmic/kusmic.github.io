@@ -92,7 +92,7 @@ li a.list {
 }
 
 .mainbox {
-    padding: 3%;
+    padding: 4%;
     text-align: center;
     background-color: #333;
     border-radius: 20px;
@@ -100,6 +100,7 @@ li a.list {
     grid-area: span 1/span 1;
     margin-bottom: 3%;
     margin-top: 2%;
+    margin-left: 25%;
     border: 0px;
 }
 
