@@ -110,6 +110,14 @@ li a.list {
     padding: 0px;
 }
 
+img#me{
+    width: 40%;
+}
+
+img#fulbright {
+    width: 10%;
+}
+
 .aboutme {
     place-self: center;
     float: left;
