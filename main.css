@@ -99,7 +99,7 @@ li a.list {
     color: white;
     grid-area: span 1/span 1;
     margin-bottom: 3%;
-    margin-top: 2%;
+    margin-top: 0%;
     margin-left: 25%;
     border: 0px;
 }
@@ -115,7 +115,7 @@ img#me{
 }
 
 img#fulbright {
-    width: 10%;
+    width: 5%;
 }
 
 .aboutme {
@@ -123,7 +123,6 @@ img#fulbright {
     float: left;
     text-align: center;
     padding: 0%;
-    grid-area: 1/2/1/span 1;
     margin-right: 2%;
     margin-left: 0;
     background-color: #ccc;
