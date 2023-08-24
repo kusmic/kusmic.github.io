@@ -1,10 +1,11 @@
 a {
-    color: white;
+    color: rgb(218, 218, 218);
     font-size: 14pt;
 }
 
 body {
     background-color: #3d3846;
+    color : rgb(218, 218, 218);
 }
 /* General Webpage Setting */
     
@@ -17,7 +18,7 @@ body {
     max-height: 100%;
     grid-template-columns: 85% 15%;
     grid-template-rows: 100%;
-    margin: 0px;
+    margin: 5px;
     padding: 0;
 }
 . {
@@ -39,8 +40,9 @@ body {
 .navbar {
     overflow: hidden;
     background-color: #333;
-    text-color: white;
+    text-color: rgb(219, 219, 219);
     position: fixed; /* Set the navbar to fixed position */
+    place-items: center;
     top: 0; /* Position the navbar at the top of the page */
     width: 99%; /* Full width */
     height: 50px;
@@ -49,6 +51,7 @@ body {
     border-right: 1px solid black;
     z-index: 10;
     margin: 0;
+    padding-left: 22%;
 }
 
 .navbar ul {
@@ -99,16 +102,17 @@ li a.list {
 }
 
 .mainbox {
-    padding: 4%;
+    padding: 2%;
     text-align: center;
     background-color: #333;
-    border-radius: 20px;
+    border-radius: 1%;
     color: white;
     grid-area: span 1/span 1;
     margin-bottom: 3%;
     margin-top: 0%;
     margin-left: 22%;
-    margin-right : 0%;
+    margin-right : 5%;
+    padding-right : 0%;
     border: 0px;
     border-left: 1px solid black;
     border-right: 1px solid black;
